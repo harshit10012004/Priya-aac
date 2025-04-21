@@ -1,0 +1,72 @@
+{
+  "expo": {
+    "name": "Leeloo",
+    "displayName": "Leeloo",
+    "slug": "leeloo",
+    "version": "2.7.0",
+    "sdkVersion": "52.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#6989FF"
+    },
+    "ios": {
+      "bundleIdentifier": "org.dreamoriented.leeloo",
+      "usesAppleSignIn": true,
+      "buildNumber": "2.7.0",
+      "requireFullScreen": true,
+      "supportsTablet": true,
+      "config": {
+        "googleSignIn": {
+          "reservedClientId": "com.googleusercontent.apps.494587339451-h03s4vdtg9g974gstr6m1dg12ekeekhr"
+        }
+      },
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "android": {
+      "package": "org.dreamoriented.leeloo",
+      "permissions": [
+        "WAKE_LOCK"
+      ],
+      "versionCode": 270,
+      "googleServicesFile": "./google-services.json"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "bundler": "metro"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "privacy": "public",
+    "entryPoint": "node_modules/expo/AppEntry.js",
+    "plugins": [
+      "expo-localization"
+    ],
+    "extra": {
+      "analyticsKey": "UA-111111111-1",
+      "apiEndpoint": "https://leeloo.dreamoriented.org/",
+      "assetEndpoint": "https://api.assistivecards.com/",
+      "assetVersion": 224,
+      "planPrefix": "leeloo_",
+      "config": {
+        "language": true,
+        "tts": true,
+        "accent": false,
+        "apps": true,
+        "backgroundColor": "#6989FF",
+        "pFontColor": "#333333"
+      },
+      "storeId": {
+        "appStore": 1508952198,
+        "googlePlay": 4973589507294196000
+      }
+    }
+  }
+}

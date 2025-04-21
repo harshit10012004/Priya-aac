@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>494587339451-h03s4vdtg9g974gstr6m1dg12ekeekhr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.494587339451-h03s4vdtg9g974gstr6m1dg12ekeekhr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>494587339451-56jbil93dcoif248evnj52sff1p4b3ca.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBNTkcqQ245Ix_kirYtfFkafnyTr4QuPs0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>494587339451</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.dreamoriented.leeloo</string>
+	<key>PROJECT_ID</key>
+	<string>leeloo-app-372513</string>
+	<key>STORAGE_BUCKET</key>
+	<string>leeloo-app-372513.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:494587339451:ios:e7e41d6c470b47ec383f9e</string>
+</dict>
+</plist>
